@@ -75,7 +75,7 @@ if conectaWifi ("Xperia L1_6bd9", "SAMUELPALACIOS"):
     while True:
    
         vol = adc.read()
-        sensor_vol = (vol / 4095) * 1000
+        sensor_vol = (vol * 9)/ 65356
         print("V:",sensor_vol,"v")
         sleep_ms(1)
        
