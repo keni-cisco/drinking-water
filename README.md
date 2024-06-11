@@ -42,4 +42,5 @@ Publicación de los datos recopilados en un tema MQTT.
 Manejo de errores:
 
 Si la conexión a la red WiFi falla, se imprime un mensaje indicando que la conexión no fue posible. Esto se hace después de intentar conectarse durante un período de tiempo limitado
-https://mail.google.com/mail/u/0?ui=2&ik=b18f381767&attid=0.1&permmsgid=msg-a:r-8732520721476933924&th=18fbf53d8e64d37b&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-nkk8uo2NJafOgNOBmOfpNKrbz9YvphQXkW-NroU6wQ5hRDTi5-hVXgmN9ItKegUWsdNHLXohPhogjX-O0CjPtsEhjGVJy52Bf5PnW2lrf_FLvB0wlQKruRKo&disp=emb&realattid=ii_lwqf21i70
+![image](https://github.com/keni-cisco/drinking-water/assets/171938047/f3af4646-5cf1-4fa5-b822-25457769c111)
+
