@@ -75,4 +75,5 @@ CONCLUSIÓN
 RESULTADOS
 
 Los resultados de nuestro proyecto nos han dado una agua con un sabor aceptable y sin efectos en la salud, se probó con una agua contaminada y también se probará con agua lluvia, que esa agua es por la cual dependen los habitantes del chocó para su consumo diario  provoca varias muertes, también probamos el sensor de ultrasonido, el cual manda una señal al servomotor ,cuando alcance cierta distancia el agua que se va recolectando, el sensor de ultrasonido se encargará de mandar la señal al servomotor,el cual abrirá la compuerta que desocupara el agua potabilizada, cuando esta se vaya desocupando, alcanzara otras distancia la cual el sensor de ultrasonido detectara y madara la señal al servo para que cierre la compuerta, y asi se seguira el proceso de almacenamiento de agua potabilizada, también tuvimos la elaboración del filtro de agua, el cual mencionado anteriormente, no mostró malestares. 
-![image](https://github.com/keni-cisco/drinking-water/assets/171938047/5a5f9e2e-d176-4523-a8cb-ee829c3ac832)
+![image](https://github.com/keni-cisco/drinking-water/assets/171938047/129a9e61-5849-41c1-b5c7-594c10e36ee2)
+
